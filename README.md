@@ -1,6 +1,7 @@
-# RESTApi using SpringBoot
+# RESTful Api using Spring Boot framework
 
 - Java SpringBoot and database PostgreSQL.
-- validated using POSTMAN.
+- Spring Web, JPA, and many more dependencies.
+- validated endpoints using POSTMAN.
 
-### IDE: IntelliJ IDEA Community Edition
+### IDE used: IntelliJ IDEA 
