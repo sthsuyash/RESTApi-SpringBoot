@@ -17,9 +17,9 @@ import java.util.Optional;
 @Service
 // declaring the given class is service class
 public class StudentService {
+	@Autowired
 	private final StudentRepository studentRepository;
 	
-	@Autowired
 	public StudentService(StudentRepository studentRepository) {
 		this.studentRepository = studentRepository;
 	}
